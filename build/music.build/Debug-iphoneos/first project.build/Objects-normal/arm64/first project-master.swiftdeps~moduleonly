@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "4923ad9c10684dd8bf81b769ebdf9e4d"
+build_time: [1596451644, 848064000]
+inputs:
+  "/Users/sandeeprana/xcode/first project/first project/AppDelegate.swift": [1590745901, 889486395]
+  "/Users/sandeeprana/xcode/first project/first project/SceneDelegate.swift": [1590745901, 893138157]
+  "/Users/sandeeprana/xcode/first project/first project/GenreButtonScreen.swift": [1590862892, 324047949]
